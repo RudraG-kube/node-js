@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        AWS_ACCOUNT_ID="CHANGE_ME"
+        AWS_ACCOUNT_ID="CHANGE_ME_NOW"
         AWS_DEFAULT_REGION="CHANGE_ME" 
 	CLUSTER_NAME="CHANGE_ME"
 	SERVICE_NAME="CHANGE_ME"
